@@ -1,0 +1,23 @@
+h1 {
+    font-family: Coiny, Ariel, sans-serif;
+    text-align: center;
+    font-size: 200%;
+  }
+
+.fivemilestones {
+    background-color: blueviolet;
+    padding: 10px;
+}
+
+.milestone {
+
+    background-color: aquamarine;
+    padding: 10px;
+  }
+
+.milestone p {
+    font-family: 'Lobster', Courier, monospace;
+    text-align: center;
+    color: blueviolet;
+}
+
