@@ -17,6 +17,7 @@ h1 {
 
 .milestone p {
     font-family: 'Lobster', Courier, monospace;
+    font-size: 120%;
     text-align: center;
     color: blueviolet;
 }
