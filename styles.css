@@ -1,5 +1,5 @@
 h1 {
-    font-family: Coiny, Ariel, sans-serif;
+    /*font-family: Coiny, Ariel, sans-serif;*/
     text-align: center;
     font-size: 200%;
   }
@@ -16,9 +16,8 @@ h1 {
   }
 
 .milestone p {
-    font-family: 'Lobster', Courier, monospace;
+    /*font-family: 'Lobster', Courier, monospace;*/
     font-size: 120%;
     text-align: center;
     color: blueviolet;
 }
-
